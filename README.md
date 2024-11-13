@@ -8,15 +8,8 @@ As pastas estão organizadas por tema, como mostrado abaixo:
 
 ```
 ├── beecrowd/
-│   ├── problema_1234.py
-│   ├── problema_5678.cpp
-│   └── ...
-├── obi_2019_fase_1/
-│   ├── problema_a.java
-│   ├── problema_b.c
-│   └── ...
-├── obi_2020_fase_2/
-│   ├── problema_x.cpp
+│   ├── 1024.py
+│   ├── 1805.c
 │   └── ...
 └── README.md
 ```
