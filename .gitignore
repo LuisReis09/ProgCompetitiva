@@ -1,0 +1,9 @@
+*.o
+*.exe
+*.class
+*.out
+
+# Ignorar diretórios de ambiente de desenvolvimento
+.vscode/
+.idea/
+__pycache__/
